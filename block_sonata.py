@@ -206,10 +206,3 @@ my_confu_mat(dic_test_set,x_sol_bs_1)
 
 
 
-
-
-
-
-
-
-
